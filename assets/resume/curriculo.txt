@@ -1,0 +1,34 @@
+CASSIANO SOARES
+
+Contato
+- (12) 99136-4115
+- cassiano.soares156@gmail.com
+- www.linkedin.com/in/cassiano-brandes-soares
+- https://github.com/Cassian0S0ares
+- https://cassian0s0ares.github.io
+
+Perfil profissional
+Sou Técnico em Desenvolvimento de Sistemas pelo SENAI e atualmente cursando graduação na área de Tecnologia. Atuo como desenvolvedor júnior, com base sólida em lógica de programação e experiência acadêmica em back-end, front-end e desenvolvimento mobile. Atualmente buscando o meu primeiro estágio na área.
+
+Habilidades
+Python; JavaScript; MySQL; Laravel; NPM; CSS; Métodos ágeis (Scrum e Kanban); Node.js; Linux; Power BI; Django.
+
+Formação
+- Graduação - Análise e Desenvolvimento de Sistemas
+  Escola e Faculdade SENAI Taubaté Felix Guisard | Jan 2026 - Atualmente
+- Curso Técnico - Análise e Desenvolvimento de Sistemas
+  SENAI Cruzeiro | Jan 2024 - Dez 2025
+
+Experiência
+- IMEX Solutions | Estágio | Jun 2026 - Atualmente
+  Desenvolvo e mantenho sistemas web para gestão de válvulas e propostas comerciais utilizando Django e React, além de manutenção do ERP da empresa. Responsável pela infraestrutura do servidor VPS, integração de IA e suporte técnico.
+
+- DG Consultoria | Freelancer | Jan 2026 - Mar 2026
+  Desenvolvi landing page para a DG Consultoria com sistema de login, confirmação de e-mail e venda de cursos online, utilizando Laravel, MySQL, APIs (Stripe), HTML e CSS.
+
+- Iochpe-Maxion S.A. | Aprendiz | Nov 2024 - Dez 2025
+  Atuei como aprendiz conciliando teoria e prática, desenvolvendo lógica de programação, noções de sistemas, processos corporativos e trabalho em equipe.
+
+Idiomas
+- Português - Nativo
+- Inglês - Avançado
